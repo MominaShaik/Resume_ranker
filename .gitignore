@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Massive datasets
+data/candidates.jsonl
+data/candidates.jsonl.gz
+
+# Microsoft Word copies
+data/*.docx
+
+# Local output files
+output/ranked_candidates.csv
